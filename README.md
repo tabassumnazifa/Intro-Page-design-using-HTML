@@ -1,8 +1,7 @@
 ###  Intro-Page-design-using-HTML
 ## Introduction
 ➤ A short description of Tim Berners-Lee and what the page is about.
-#Image Preview:
-https://github.com/tabassumnazifa/Intro-Page-design-using-HTML/blob/b5b6f4bc9cc2136a223d8175f93ce40488a6426f/description.png
+![image alt](https://github.com/tabassumnazifa/Intro-Page-design-using-HTML/blob/b5b6f4bc9cc2136a223d8175f93ce40488a6426f/description.png)
 ## Image of Tim Berners-Lee
 ➤ A photo of Tim Berners-Lee placed on the right side of the page.
 
